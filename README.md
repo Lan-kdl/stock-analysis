@@ -4,7 +4,7 @@
 
 ### The purpose of this project was to refactor code in VBA which looped through stock data to find the Total Daily Volume and Return for a list of twelve different stocks. The purpose of refactoring the code was to run it so that it only had to loop through the data once, as opposed to running it for each individual stock, so that the client could analyze data for thousands of stocks with greater effeciency. 
 
-**[Project Link (Includes Excel Worksheets and VBA Macros):]** (https://github.com/Lan-kdl/stock-analysis/blob/main/VBA_Challenge.xlsm.xlsm)
+**[Project Link (Includes Excel Worksheets and VBA Macros):](https://github.com/Lan-kdl/stock-analysis/blob/main/VBA_Challenge.xlsm.xlsm)**
 
 ## Results:
 
